@@ -1,1 +1,1 @@
-# react-javascript-practice
+# react 공부
